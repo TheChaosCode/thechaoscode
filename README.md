@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mikedrioel@icloud.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mikedrioel/](https://www.linkedin.com/in/mikedrioel/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mikedrioel/)
 
 - ⚡ Fun fact **I appreciate the time you took to read all this :P**
 
