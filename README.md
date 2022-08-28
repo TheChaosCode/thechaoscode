@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, JavaScript, TypeScript, Kotlin, Wordpress**
 
-- 📫 How to reach me **mikedrioel@icloud.com**
+- 📫 How to reach me **https://www.linkedin.com/in/mikedrioel/**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mikedrioel/)
 
