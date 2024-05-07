@@ -2,17 +2,6 @@
 # Hi and welcome to my Github!👨🏻‍💻
 #mft, #development, #datasecurity, #cybersecurity, #penetrationtesting
 
-
-
-
-## 🚀 About Me
-Hi there! My name is Mike and I am a highly motivated and enthusiastic individual with a strong interest in cyber security and data security.    
-
-I have always been drawn to the field of cyber security because of its ever-evolving nature and the constant need for learning and knowledge-gaining. I am passionate about staying up-to-date with the latest technologies and best practices in the field, and I am constantly seeking out opportunities to expand my skillset and deepen my understanding of the field.  
-  
-In addition to my professional interests, I am also an avid learner in my personal life. I love to read and educate myself on a wide variety of subjects, and I am always seeking out new challenges and experiences that will help me grow and develop as a person.
-
-
 ## 🛠 Skills
 **Java** | ***5 years of experience***, enterprise, network, database, scientific, and mathematical.  
 **php**  | ***5 years of experience***, dynamic web development, database, backend.  
@@ -23,7 +12,7 @@ In addition to my professional interests, I am also an avid learner in my person
 
 ## 🖥 Tech Stack
 
-**Stacks:** MEAN, MERN, MEVN, FLUTTER, LAMP, DJANGO   
+**Stacks:** MEAN, MERN, MEVN, FLUTTER, LAMP, DJANGO
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vexusstudios.com/)
